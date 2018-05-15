@@ -1,0 +1,2 @@
+# Space-Invader
+Space Invader is a game written in c++ played on command line interface. Space Invaders is a two-dimensional shooter game in which the player controls a ship by moving it horizontally across the bottom of the screen and firing at descending aliens. The aim is to defeat all aliens  as they advance toward the bottom of the screen. The aliens attempt to destroy the cannon by firing at it while they approach the bottom of the screen. If they reach the bottom, the alien invasion is successful and the game ends.
